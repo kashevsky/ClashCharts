@@ -30,7 +30,7 @@
                 <h2>Quick market<br> overview</h2>
             </div>
             <div class="overview_row">
-                <a href="">
+                <a href="{{route('aud/usd')}}">
                     <div class="overview__item">
                         <div class="overview_speedomentr">
                             <div class="overview_speedomentr_body">
